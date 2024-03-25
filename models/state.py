@@ -10,4 +10,3 @@ class State(BaseModel):
     Class that represents a state
     """
     name = ""
-    
