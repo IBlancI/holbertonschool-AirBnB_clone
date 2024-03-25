@@ -58,3 +58,4 @@ class BaseModel:
             else:
                 model_dict[key] = value
         return model_dict
+        
